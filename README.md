@@ -2,6 +2,12 @@
 
 Inspect Office files locally, choose supported cleanup actions, and inspect the result again. Doc Rinse is an experimental single-file HTML tool; it also has a Node command-line interface. It does not establish authorship, prove how a document was written, or guarantee removal of every private detail.
 
+## Try it
+
+[Open the live demo](https://parttimediarybehavior.github.io/doc-rinse/) · [Watch the 36-second walkthrough](https://parttimediarybehavior.github.io/doc-rinse/demo.html)
+
+Try the embedded synthetic sample first. Processing happens in your browser; documents are not uploaded. You can also download the single HTML file and use it offline.
+
 ## Open it locally
 
 Build from source with Node.js, then open the generated file in your browser:
