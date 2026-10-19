@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'unsafe-inline'; style-src 'unsafe-inline'; img-src data: blob:; connect-src 'none'; object-src 'none'; base-uri 'none'; form-action 'none'">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Doc Rinse — the editing history hidden in a Word file</title>
+<meta name="description" content="Inspect stored DOCX metadata, revision identifiers, recoverable deletions and cropped image content offline.">
+<!--CSS-->
+</head>
+<body>
+<div class="wrap">
+  <header class="mast">
+    <div class="logo">Doc Rinse</div>
+    <div class="tag">See the metadata and recoverable content <em>stored in your document</em>.</div>
+    <p class="sub">
+      Drop an Office file below to inspect supported metadata and recoverable content. DOCX inspection includes revision identifiers, stored names and timestamps,
+      tracked deletions and image content outside the displayed crop. Metadata can be incomplete or edited;
+      it does not prove who wrote the text, how it was written or how long it took.
+      Choose supported cleanup options, then <b>review the downloaded result before sharing</b>.
+    </p>
+    <div class="privacy">everything runs in this tab · <b>no upload, no server, no network</b> · works offline from a single file</div>
+  </header>
+
+  <div id="intro">
+    <div class="drop" id="drop">
+      <h3>Drop a .docx, .xlsx or .pptx here</h3>
+      <p>or click to choose · nothing leaves your machine</p>
+      <div class="samples" id="samples"><!--SAMPLES--></div>
+    </div>
+    <div class="footnote">
+      <h4>what it finds</h4>
+      <p><b>Revision identifiers.</b> See text grouped by stored ids, not verified human work sessions.
+      <b>Unlisted ids.</b> Body ids absent from the stored list may reflect copying or other document processing; they do not identify a source document.
+      <b>Editing-time metadata.</b> Inspect the reported fields without treating them as measured typing speed.
+      <b>Recoverable content.</b> Unaccepted tracked deletions, hidden/white/1-point text, comments, AutoText, embedded workbooks.
+      <b>Image excavation.</b> Word keeps the whole picture and displays a window onto it, so the cropped-away part is still in the file — along with EXIF, GPS and camera model.
+      <b>Lineage.</b> Drop a second version to see shared sessions and, via stable paragraph ids, exactly which paragraphs were silently rewritten.</p>
+      <h4>and what it removes</h4>
+      <p>Nineteen fixes, from rsid stamps and paragraph ids to tracked changes, comments, invisible runs, EXIF/GPS, sensitivity labels, AutoText,
+      page thumbnails, UNC paths and language tags — plus baking image crops so the off-camera pixels stop travelling. The rewritten file is
+      re-analyzed in front of you, with remaining findings shown. Earlier container/text checks covered 196 supported files;
+      those checks do not establish unchanged rendering. Independent LibreOffice comparison is in progress.</p>
+    </div>
+  </div>
+
+  <div id="out"></div>
+</div>
+<input type="file" id="file" accept=".docx,.docm,.dotx,.xlsx,.pptx" class="hidden">
+<div class="tip" id="tip"></div>
+<!--JS-->
+</body>
+</html>

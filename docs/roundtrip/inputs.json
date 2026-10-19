@@ -1,0 +1,846 @@
+[
+  {
+    "path": "corpus/021b33e7_2021-2022_RCG_Final_Report_Form.docx",
+    "sha256": "021b33e7b93cf1d44bac07c6795c1234f63de25f648f22fcf8e7952da933c287"
+  },
+  {
+    "path": "corpus/0b7e22c0_idc1-030937.docx",
+    "sha256": "0b7e22c023e03e38af043a85e015eefa7d4e2406963cfac81669a2a7dd265d53"
+  },
+  {
+    "path": "corpus/0e6d4fcb_Agreement_for_the_Transfer_of_Data_.docx",
+    "sha256": "0e6d4fcbadd8741a45c55956889d421f30dded84ba2940f2a2bd3edea110f90c"
+  },
+  {
+    "path": "corpus/0ebebca5_Enviroment.docx",
+    "sha256": "0ebebca5b3a3772b6550359592150384d8397df5e203dfb1c6409c796d376822"
+  },
+  {
+    "path": "corpus/15da7354_bjsmpc.docx",
+    "sha256": "15da7354da44dcc05b907051fe94ce8c02b673b7fa85a4afb58c0a8c12e820a4"
+  },
+  {
+    "path": "corpus/18b938bf_Research_Performance_Progress_Report__BJS_Graduate_Research_Fellowship.docx",
+    "sha256": "18b938bf3621f92e68516ecef66a9969db7dd72f2897bacbc1018f57ed8035ed"
+  },
+  {
+    "path": "corpus/1abfc7c5_25-Ways-that-Baldrige-Adds-Value.docx",
+    "sha256": "1abfc7c5d92ac01643042963d3478ddea4b0946f8411c99724cb005b9222ac48"
+  },
+  {
+    "path": "corpus/1dc5fecc_2015_08_-_FAQ_-_Introduction_to_Occupancy_Agreements.docx",
+    "sha256": "1dc5fecc2de3c251809787f2a6f06ccca620f7c552ee5bff739221902ce4a0cf"
+  },
+  {
+    "path": "corpus/2219842e_Chickamauga-July_23rd_-_27th_Schedule.docx",
+    "sha256": "2219842ed3097096a08bdc747602bb0bafc568fe8b20ada7c33a0ce10e517315"
+  },
+  {
+    "path": "corpus/223922a0_biosketch-blankformat-Forms-D.docx",
+    "sha256": "223922a0579373f9156eebc3dc5e8eb04d4f41536c57ae4b4575f0cd128c640b"
+  },
+  {
+    "path": "corpus/2662cfaa_2__GSA_Freight_TSP_Approval_Instructions.docx",
+    "sha256": "2662cfaaa39ae64143135a5cf18095c16f06e5632a24c366b8ce533998eb0f80"
+  },
+  {
+    "path": "corpus/288f436a_2016_Baldrige_Eligibility_Form.docx",
+    "sha256": "288f436ae642f2813ad4a29eb31e004993af52b657aec1931978c40e3a6dee4d"
+  },
+  {
+    "path": "corpus/2c4f7d47_Innovation_Fund_Pilot2.docx",
+    "sha256": "2c4f7d4732bb2986096245006495b2639599685660ea0eab98665f1ad3d62477"
+  },
+  {
+    "path": "corpus/374bb84b_2015-Examiner-Biography-Form.docx",
+    "sha256": "374bb84b8457605aa1299c3e8c78f1ff8a9e37b29a7947417602b4f907aae571"
+  },
+  {
+    "path": "corpus/44995dbb_idc1-032133.docx",
+    "sha256": "44995dbb7f146b84a34035f02006d1b67519f1709872660bc244f7e6e29cf0f0"
+  },
+  {
+    "path": "corpus/463a16d3_Progress_Report_BJS_Data_Collection_Awards__Non_Fellowship.docx",
+    "sha256": "463a16d37ff9981aa028747450ef75327f64374502374a596768c3309e71d765"
+  },
+  {
+    "path": "corpus/46a84063_2015_Baldrige_Award_Application_Form.docx",
+    "sha256": "46a84063ad76451edaf233ba28ab7e798bbfca4d18b50a2dd2abb3d5046152c3"
+  },
+  {
+    "path": "corpus/48b626b3_01-07-2020_FASt_Lane_Eligibility_Checklist_revised.docx",
+    "sha256": "48b626b3a5239b513cd9538591964277dd2e0bb966c080f7206fc4bbbe89d8fa"
+  },
+  {
+    "path": "corpus/4a0124ad_2013_June_Overseers_Judges_Meeting_Minutes.docx",
+    "sha256": "4a0124ad5624e5493bea1a6c9c0046687cba82ba0a05b6daa64bed469472fd2f"
+  },
+  {
+    "path": "corpus/4a6c5977_eSub-validations-draft-7-13-2016.docx",
+    "sha256": "4a6c5977e47e22b58ad4b2036839b3a7a61bbe249046139cb8f214ee9ffe91b0"
+  },
+  {
+    "path": "corpus/4d618e40_postdocfellowshipbiosample-Forms-D.docx",
+    "sha256": "4d618e40ff402e32cd47245f50abb5e72b55fd26745c5a2178cffdacb59761e7"
+  },
+  {
+    "path": "corpus/521bdfbb_Guntersville_-_Treatment_Schedule_-_Aug_13th-17th.docx",
+    "sha256": "521bdfbb2e69163ae026e73af9a9982fe51665ea8dec93ceae98ef92d9494fd4"
+  },
+  {
+    "path": "corpus/528804a4_Presentation_Tracking_Form.docx",
+    "sha256": "528804a4e2ce1396e164bace1be7dd62e2702f08fe706a8bc3b77b6d5af9415f"
+  },
+  {
+    "path": "corpus/56009223_idc-020379.docx",
+    "sha256": "56009223c720dfd3c00f44c6124bfff1513f7dd09700c1062d5bbd3ee29e110c"
+  },
+  {
+    "path": "corpus/57b1f327_Biological_Materials_License_Example_5-27-2015.docx",
+    "sha256": "57b1f327af3e44d47c6adb98c21a780a7881847ea287c6513f925e9a7ecac19c"
+  },
+  {
+    "path": "corpus/5e5549c5_eSub-validations-draft-3-31-2016.docx",
+    "sha256": "5e5549c5485c47556e81af79c46d3d31050ade7f2824b0176e380ed655bbacce"
+  },
+  {
+    "path": "corpus/5f2383c4_eSub-validations-draft-1-12-2016.docx",
+    "sha256": "5f2383c4f60d6a938a246ce442d63b9bd733708b95160c8620c06a7d98147cab"
+  },
+  {
+    "path": "corpus/5fc7488e_RCG_Final_Report_Form_2020-2021.docx",
+    "sha256": "5fc7488e2b11bf9df209585cde5de3c1d963025e88f11ca19a5c8ee81be89e6f"
+  },
+  {
+    "path": "corpus/61c85a51_fy14-service-contract-inventory-analysis-02-12-16.docx",
+    "sha256": "61c85a51c471dc184b771a990bb632880bd60074b571368f516a5acb4859bf09"
+  },
+  {
+    "path": "corpus/627b5c0d_application-guide-biosketch-instructions-rev-06-28-2021.docx",
+    "sha256": "627b5c0d4d1d5ffdacecb988ff5fd60b72cc9e5725fc09dd5276d5ba5cb479f4"
+  },
+  {
+    "path": "corpus/65eb77a1_NARIP_NCHIP_Progress_Report_Template.docx",
+    "sha256": "65eb77a12a74d4cbe0d29c160946c01226a2e17e8d8ddccdd193bdbce35966ef"
+  },
+  {
+    "path": "corpus/69c9bfee_2015_Baldrige_Eligibility_Form.docx",
+    "sha256": "69c9bfee20a72ce927782d5d14a8ac0b970bed66d4ca01d138d346e69717b77b"
+  },
+  {
+    "path": "corpus/6b69fae9_RFQ_Task_Order_Evaluation_Factors__5_.docx",
+    "sha256": "6b69fae9415b394244b0a9f5099c4e19db833d5dd26ae5f0256050410ba94af0"
+  },
+  {
+    "path": "corpus/6c6f9d70_Invention_Disclosure_Template.docx",
+    "sha256": "6c6f9d703b9ac653a9d19024035bb2208327593d56ec24fd80b9fc27ba8b3272"
+  },
+  {
+    "path": "corpus/6e513520_2021-2022_SRG_Final_Report_Form.docx",
+    "sha256": "6e5135204771992ed8b397ef131faf3a8587469820dfb63cae2d6ea75d4ebd47"
+  },
+  {
+    "path": "corpus/70923661_idc1-026791.docx",
+    "sha256": "709236614a9f75237f37895ad010a01e1c953d7082a22bafdd418734c5681bf7"
+  },
+  {
+    "path": "corpus/718c2f87_idc1-026794.docx",
+    "sha256": "718c2f87812a15aa07ebf253f9d8fe77a15a9813583e92e438aecbac508a08cc"
+  },
+  {
+    "path": "corpus/72d07ef9_2020-2021-SRG-Final-Report-Form.docx",
+    "sha256": "72d07ef9a15ac80bedf896b860cdbfc505cf296c828a229c364d889138eb7c35"
+  },
+  {
+    "path": "corpus/75a128ea_2022-2023_RCG_Final_Report_Form_I_081122.docx",
+    "sha256": "75a128eaf666b440a2b4ab459f544726c4362638abd77a393157525605ae26b4"
+  },
+  {
+    "path": "corpus/78107148_Guntersville_-_Treatment_Schedule_-_Aug_20th-24th.docx",
+    "sha256": "7810714840fd1a21ac3829b59a6876d57186b57e705a4f48e102421af05b5e26"
+  },
+  {
+    "path": "corpus/7a485ba0_05-27-2020_FASt_Lane_Eligibility_Checklist.docx",
+    "sha256": "7a485ba0154ae136a508f78cf965abbce6f3d5e936a711df1faaf43d0d2d2040"
+  },
+  {
+    "path": "corpus/7ac07543_biosketch-blank-fellowship-format-Forms-D.docx",
+    "sha256": "7ac075436eafa2dc50a20db015bba49f6c3341f293f59cdc0713df48eea46ec8"
+  },
+  {
+    "path": "corpus/808bbdc9_061011-Background-Report.docx",
+    "sha256": "808bbdc936ff6e38d6d129e48c3169342a4de91ea30134142faa8b3e1a51c105"
+  },
+  {
+    "path": "corpus/84f50b4e_Company_NonExclusive_License_Example_5-27-2015.docx",
+    "sha256": "84f50b4ed816f4f5b508cd0408fd4fbe6000c01f0d8783b44c84a16653a5d490"
+  },
+  {
+    "path": "corpus/878506ff_SJS_Progress_Report_Template.docx",
+    "sha256": "878506ff51e48d33ba6e957e4ab7072aabd2dc69037934833e5c40353c9d36a2"
+  },
+  {
+    "path": "corpus/8a1ae065_2014_Baldrige_Award_Application_Form.docx",
+    "sha256": "8a1ae065f75e84dbd592a67133e68e40baf8783e6136e4f47fcbca03a13bfb98"
+  },
+  {
+    "path": "corpus/8dea4f1f_Company_Exclusive_License_Example_5-27-2015.docx",
+    "sha256": "8dea4f1f7f98d7a6351853447df17636c44c3fa70c2c8778a11c1e17ddaed6af"
+  },
+  {
+    "path": "corpus/8e68a851_idc010146.docx",
+    "sha256": "8e68a8515fd328f62156bddcd96b9e889e2803bbfe1bf487622d323c5223e6d7"
+  },
+  {
+    "path": "corpus/8fd374c3_Eligibility-Categories.docx",
+    "sha256": "8fd374c3b721411a707f8ee51d9422db2cb0f0ae153358b816f27ba6cdbb340d"
+  },
+  {
+    "path": "corpus/9234d82a_fy15-service-contract-inventory-analysis-02-01-17.docx",
+    "sha256": "9234d82aaaedeefdbb19ccb5ec3c1522598843fe7651e94855625501624f3a67"
+  },
+  {
+    "path": "corpus/9b186b73_fy14-special-interest-05-22-2015.docx",
+    "sha256": "9b186b730e4af8875318642d0abcb013090045177dac9af1f65e73558b72b35c"
+  },
+  {
+    "path": "corpus/9cae8afd_Guntersville_-_Treatment_Schedule_-_Aug_6th-10th.docx",
+    "sha256": "9cae8afdb91231921d2a28f3179c01a920ed603a25819a7615f841e47eb8bea3"
+  },
+  {
+    "path": "corpus/9d65c1cc_idc-018687.docx",
+    "sha256": "9d65c1cc92c57b8e98305fd05afd66c8b5fe489340b7fd431a9fa7770da55536"
+  },
+  {
+    "path": "corpus/9f24b5cb_SVS-Validations-Single-and-Multi-Project-April-2015-tracked-PreRelease.docx",
+    "sha256": "9f24b5cb2eea255439f709027756af9d7f96b55c6957b06a717d11248c621d25"
+  },
+  {
+    "path": "corpus/ab46a623_eSub-validations-draft-2-5-2016.docx",
+    "sha256": "ab46a62324c568bca681abbd252fabe1156fba4fb9122ac8975f1a7d58e4c46c"
+  },
+  {
+    "path": "corpus/ad5918d2_2013_Examiner_Skill_Development_Resources_Matrix.docx",
+    "sha256": "ad5918d2cb0d640e55ac3624fb47ae899db736d2ae9cc917c446ea57bafdc479"
+  },
+  {
+    "path": "corpus/afd9e47f_idc1-026793.docx",
+    "sha256": "afd9e47f091a35b996dc398d68ecb0f456e90c5b0f0f50e44143933ba362b5fb"
+  },
+  {
+    "path": "corpus/b2ff7fc7_fy21-special-interest-function-for-analysis.docx",
+    "sha256": "b2ff7fc71dfd99746ee6115da707b71c91d752c0e36656d20eb2f3044ff4ee4f"
+  },
+  {
+    "path": "corpus/b8227907_fy18-service-contract-inventory-analysis.docx",
+    "sha256": "b8227907dd95ae97bba3ffb041c2b228413f2c3dff96d17afbdb88c5274045a7"
+  },
+  {
+    "path": "corpus/c038effb_fy13-service-contract-inventory-05-22-2015.docx",
+    "sha256": "c038effb98841f08817641c70b3965a8f0e4f8eb796f6a04bfbf43a5db287fdf"
+  },
+  {
+    "path": "corpus/c51031c5_2022-2023_RCG_Final_Report_Form_II_081122.docx",
+    "sha256": "c51031c51020e193023da4b5e1d14a8c3a55fb646d646427fe00fa1c29634f24"
+  },
+  {
+    "path": "corpus/c844c05b_idc1-029056.docx",
+    "sha256": "c844c05b87677963c25fad8ed1bd4ef03d6861390caa0b8a78a207913b9fe26c"
+  },
+  {
+    "path": "corpus/c9991e97_Supplemental-IRB-Application-Personnel-Form.docx",
+    "sha256": "c9991e978b57d246e7a688ee52089d00f4a9051373925742b06dbadeea6829b8"
+  },
+  {
+    "path": "corpus/cc92dff0_DPP_PPA_Solar_less_than_50kW.docx",
+    "sha256": "cc92dff04d2b71d87a273ee934f741c7508faf66a0228e19ec2e2b64a31af1d5"
+  },
+  {
+    "path": "corpus/d31045aa_predocfellowshipbiosample-Forms-D.docx",
+    "sha256": "d31045aa8f55eb43bd4eeb747e07efdeadb41656f96cc6fe79779b6d173d82b4"
+  },
+  {
+    "path": "corpus/d4205fed_tva_17328__retiree_medical_application.docx",
+    "sha256": "d4205fed59e6305cf6df1160859c751b9280da6e39a9cea7914299d76c3d6dc9"
+  },
+  {
+    "path": "corpus/d98452ef_2014_Baldrige_Eligibility_Form.docx",
+    "sha256": "d98452ef6c3c33b6590f09ea0a76ad788609b556d4f3ec3785aefb4a42684ed7"
+  },
+  {
+    "path": "corpus/d9bf7e6e_fy21-service-contract-inventory-analysis.docx",
+    "sha256": "d9bf7e6e60d29d95a1ffd6c98bf495eb72aaa0ac89db1e5111de48af7049315f"
+  },
+  {
+    "path": "corpus/da7e919a_fsd0512.docx",
+    "sha256": "da7e919a7af355ec1d50908aab77ff7534229c66a2bca8361ec99ede880dd73a"
+  },
+  {
+    "path": "corpus/dc514470_Updated_Public_EAST_Training_Modules_9_20_13.docx",
+    "sha256": "dc51447055561b91d37a6d7a886286d59597bbe41c3b7759df7e79ffea61c278"
+  },
+  {
+    "path": "corpus/de7ebfff_eSub-validations-draft-3-1-2016.docx",
+    "sha256": "de7ebfff381c96bcd44407f18e46a62341c64ee3a91119ea32fb531c38d891e6"
+  },
+  {
+    "path": "corpus/e3f25cd9_ProTech-Brochure-Text-Only-Sep-2024.docx",
+    "sha256": "e3f25cd97663da2d4d9f65a4ad9f79da314345ce5f8c646f44ce539b3ab14956"
+  },
+  {
+    "path": "corpus/ef8a12ca_2015-Document-Log.docx",
+    "sha256": "ef8a12ca2e76ca0f4e210c0c5825f526c240c98dc1f6dd0d20488aed855b573a"
+  },
+  {
+    "path": "corpus/efa42b21_biosketch-instructions-Forms-D.docx",
+    "sha256": "efa42b2161c6172889611ff5c8ebba2157cb966deaa4d9c8120a23f7a35fa7ba"
+  },
+  {
+    "path": "corpus/f2a5dabe_idc1-021948.docx",
+    "sha256": "f2a5dabe93e1aa28a743966781b33196a116ffbf71cef28a536f102821a5a634"
+  },
+  {
+    "path": "corpus/f4288a08_2012_Procurement_Directory_GSA_508.docx",
+    "sha256": "f4288a08ed1f6b24c7ced5ee9ef0a3ad0ffac49c85090d7c34f8adcb974c351f"
+  },
+  {
+    "path": "corpus/f7957d23_07-18-2017_-_Final_Agenda_for_Office_of_IT_Services_GSA_IT_S70_Myth_Bu.docx",
+    "sha256": "f7957d23b97bc95bab464f67334cb8111859af81b2bcf795fd80e48dccd5300c"
+  },
+  {
+    "path": "corpus/fd09a9df_idc-018340.docx",
+    "sha256": "fd09a9dfd6527661e12ca86a873b6affe3424f80cd11f7f480bad5881b637510"
+  },
+  {
+    "path": "corpus/fed4eac0_DPP_PPA_solar_greater_than_50kW.docx",
+    "sha256": "fed4eac05da1cb3f5c32646e8c9776e875026419aaf01b0a94b523d9d08476fb"
+  },
+  {
+    "path": "corpus/fefedc09_2014_June_Agenda_Overseers_Judges_Meeting.docx",
+    "sha256": "fefedc09c9bed189f99ba092db0af97bb2608d5699cb656a788d50abad241fda"
+  },
+  {
+    "path": "corpus/ff6a62fe_idc1-029055.docx",
+    "sha256": "ff6a62feed65b0ca41c759f6ae34afd6c665ea62c15040c0044c9c8e09ca042a"
+  },
+  {
+    "path": "fixtures/51921-Word-Crash067.docx",
+    "sha256": "422e62dfe18243e8bfbb4504be91075cde9318c11d479b70132972aebbb3b107"
+  },
+  {
+    "path": "fixtures/52288.docx",
+    "sha256": "8ab0f0afddd11ab43bd2dcfe4e5b51f8a4dfcc948fe3f327b338bcc2c3733bee"
+  },
+  {
+    "path": "fixtures/52449.docx",
+    "sha256": "f48139d1b019b5e5e0d4396fb6b10ed21dd30116926646bbd5598d807580ae2b"
+  },
+  {
+    "path": "fixtures/55733.docx",
+    "sha256": "b5c30080ffe667ef27414302ffd3ccd01ef1c85d4a5a459761b9c82c3421a4e0"
+  },
+  {
+    "path": "fixtures/55966.docx",
+    "sha256": "4409a5e95d229c5ab94fb24aac1a53ee47d0d66c9e75b7f39d80f10c218abedb"
+  },
+  {
+    "path": "fixtures/56392.docx",
+    "sha256": "bdff4457ccfbe7482f8230e2e1085e8becdda5bc869237923a4e70977d3b6678"
+  },
+  {
+    "path": "fixtures/57312.docx",
+    "sha256": "f80b3c4f3885e0284d8017fec93818b4ec5366f9486ad97b8ddd47ab68a330c5"
+  },
+  {
+    "path": "fixtures/58067.docx",
+    "sha256": "719b5076b736e6208be4b10fd268e9e3b7e0029c819d485d53ca14700fc98fc5"
+  },
+  {
+    "path": "fixtures/58618.docx",
+    "sha256": "393ac2f66113a3a8a35e3cacf806cbcaf080dbdb62d1c8345183e6a338f35295"
+  },
+  {
+    "path": "fixtures/59030.docx",
+    "sha256": "2968d4a5d5de21dce1cbeae3235e545cdf4bfd7ae508fe0eed3a9b032773ce17"
+  },
+  {
+    "path": "fixtures/59378.docx",
+    "sha256": "9829d202db7fc9d86399552ea7e92fbb415444c9242303c8142026b73034776a"
+  },
+  {
+    "path": "fixtures/60293.docx",
+    "sha256": "a534742296b8a3817f94ded5110ab79e3995bb53184c2741207fbc70e475e5f5"
+  },
+  {
+    "path": "fixtures/60316.docx",
+    "sha256": "0bfd17f6ccbf1d410278fcd9141c6007b521ebb0cba53276eddb52bdd16c4769"
+  },
+  {
+    "path": "fixtures/60329.docx",
+    "sha256": "e5b4e66038f92ef589e12ea870b24cc7a3e0005cd7a53817abff1307404f7aa3"
+  },
+  {
+    "path": "fixtures/61470.docx",
+    "sha256": "abda850b3685027eef32a4c583b2b5f7f20f243026d8c453cdb3315348ed6ff0"
+  },
+  {
+    "path": "fixtures/61745.docx",
+    "sha256": "ec54badce04b9fc3c4c327e31fbbd06c1bb556056df9cf04760db75c8913f8a2"
+  },
+  {
+    "path": "fixtures/61787.docx",
+    "sha256": "eaea73fcee1225c17d55fdd363444ee34ce8a4eb2358b2ec2e5d835f24691227"
+  },
+  {
+    "path": "fixtures/61991.docx",
+    "sha256": "e48f4d42f64b6b7bfc30827c37285fc6af692bdb9b73d9caca90343afeb6b140"
+  },
+  {
+    "path": "fixtures/65099.docx",
+    "sha256": "135859d73ef88c3c721ee42ad5e49d325e5a1a7ee68e0a099eb667b49331cc62"
+  },
+  {
+    "path": "fixtures/Bug51170.docx",
+    "sha256": "3a5f19e5bfdc7f25ce16cb256bb8bab1a15e900a767b4a4c6b1ea3ee34faaa32"
+  },
+  {
+    "path": "fixtures/Bug54771a.docx",
+    "sha256": "e9f466580cd26098320262def84db719802e6f7ef2302036ce0ec8a5a607188d"
+  },
+  {
+    "path": "fixtures/Bug54771b.docx",
+    "sha256": "8721295e024cf07671ba7db0430db2a94f9a6f12dd3ba2aa36f3011d5885021b"
+  },
+  {
+    "path": "fixtures/Bug54849.docx",
+    "sha256": "f54182713ea5ce5d77b9593d3d9d24e645460043cec0b40ef59c932385f084d3"
+  },
+  {
+    "path": "fixtures/Bug55142.docx",
+    "sha256": "69828bfe8887125db7d7e5b29405111927807b849d262d42c351ccec3b3cdb83"
+  },
+  {
+    "path": "fixtures/Bug60337.docx",
+    "sha256": "87f983bdd93b3b5b8469104a5b09ccff41e0f5c144060e13fd4db07bfd2e39da"
+  },
+  {
+    "path": "fixtures/Bug60341.docx",
+    "sha256": "56147fba379742c9b73e98787ff171c7ed37b038e623ed26749dab6b90a009ab"
+  },
+  {
+    "path": "fixtures/Bug62859.docx",
+    "sha256": "9a2af7058bb7f2c77a6591ecffd72f8b45983659ea59b9b5d7acf92b1daea513"
+  },
+  {
+    "path": "fixtures/Bug64561.docx",
+    "sha256": "ae2ce22d39377301bf17145d6ce0812f6cf33ab9639edb7b06bc1f5254bd9824"
+  },
+  {
+    "path": "fixtures/Bug66263-paragraph.docx",
+    "sha256": "41ccacadeda1ac97485b772404228b9a66c2339d46208271b932b7a4a6661998"
+  },
+  {
+    "path": "fixtures/Bug66263-table.docx",
+    "sha256": "2d3aedaf149375071e54c10a898c1900b343fb22a7b2db9261a32b1452ed7737"
+  },
+  {
+    "path": "fixtures/Bug66988.docx",
+    "sha256": "349b3576e2478801a80672e190d7406252d7adefb6d722bd6ae790817ea0bd2f"
+  },
+  {
+    "path": "fixtures/ComplexNumberedLists.docx",
+    "sha256": "297a085a7d433af2eeee7661e8db21539452cb585096484774a1e9f5f258b0b6"
+  },
+  {
+    "path": "fixtures/DiffFirstPageHeadFoot.docx",
+    "sha256": "e94332c7b86b1bbce960f93fec90078486ab8abc3913a024a24be391a0b42151"
+  },
+  {
+    "path": "fixtures/EmbeddedDocument.docx",
+    "sha256": "3cb521da0faab3b8a9e7c5d155961b4f5506fb2ceda8e69e0790d03ee01767f2"
+  },
+  {
+    "path": "fixtures/EmptyDocumentWithHeaderFooter.docx",
+    "sha256": "a6ac4223c9b7217426a54303ca52307f3c69cd8cd05b7e788e43fab449b7b45c"
+  },
+  {
+    "path": "fixtures/EnforcedWith.docx",
+    "sha256": "0727ecf6523dd8026c53129255b11dec8de4437060f2927643d99cd77e82a41b"
+  },
+  {
+    "path": "fixtures/ExternalEntityInText.docx",
+    "sha256": "5cf7340ffd6516c2fd168f445ff78cf64bd86409fe69db68997fc9f94820c223"
+  },
+  {
+    "path": "fixtures/FancyFoot.docx",
+    "sha256": "1cfd2b4fb1f7233062671b0f58789e1b0b437fbf79deb7d62167cffb85191f7a"
+  },
+  {
+    "path": "fixtures/FieldCodes.docx",
+    "sha256": "9247f85ab90b15f11d0cf14d0070fdcb5cdf47c65d6bc77cc32cb7ee682aad24"
+  },
+  {
+    "path": "fixtures/FldSimple.docx",
+    "sha256": "6cf7364676d465e702cbbac44ca92331c525476e36a29c26f780cb9d7643b631"
+  },
+  {
+    "path": "fixtures/HeaderFooterUnicode.docx",
+    "sha256": "ec439ac0643294e1e2961b381983304e044444f3a8f0dc465a98adf9ebee0e67"
+  },
+  {
+    "path": "fixtures/Headers.docx",
+    "sha256": "bdf91038f9a5454355e6393b7b74fd819a4adc480b4a7011a86e878403952b5b"
+  },
+  {
+    "path": "fixtures/IllustrativeCases.docx",
+    "sha256": "4c2407d338f02a6ae107eac0b3e925ffb3d37921942ebe88db8660dea0891a00"
+  },
+  {
+    "path": "fixtures/MultipleBodyBug.docx",
+    "sha256": "7b34a3e9458daa3cb4a56c012e279dc8edab71300404b3d9da6f145cb743211d"
+  },
+  {
+    "path": "fixtures/NoHeadFoot.docx",
+    "sha256": "dc6a67b1c118658acadc87ba41200f0b90ead05ada95e7ce6fa72a97700430c5"
+  },
+  {
+    "path": "fixtures/Numbering.docx",
+    "sha256": "776a59dcf0e290f1988602e6305e2d9cb2e31f631dc4aa751593c23cddbaad4d"
+  },
+  {
+    "path": "fixtures/NumberingWOverrides.docx",
+    "sha256": "3754dee43880ce4c9e962eca41ac78c353999888282c9ada528efbb826e2bee6"
+  },
+  {
+    "path": "fixtures/NumberingWithOutOfOrderId.docx",
+    "sha256": "fa2843a6297bb3e874f9c6dc8aac944704fba4d0d631b94627be7dbeaf12ed0f"
+  },
+  {
+    "path": "fixtures/PageSpecificHeadFoot.docx",
+    "sha256": "90bb8251b18c9f94e0b8fb91192413922a09dbe418a4a210116221054378eaad"
+  },
+  {
+    "path": "fixtures/SampleDoc.docx",
+    "sha256": "ea2c517bd7be4628887eb97f630334b93b894f4522d2c0adae263e602d76df92"
+  },
+  {
+    "path": "fixtures/SimpleHeadThreeColFoot.docx",
+    "sha256": "c682ea30e50785784969ee00b4d6ed8da31e725a64e0251a4f21077f02f19d8e"
+  },
+  {
+    "path": "fixtures/Styles.docx",
+    "sha256": "63f3fe4c3b4fbdc211eca8fa7fd31a799ff4438afbf4ca6e771b3aef107c732e"
+  },
+  {
+    "path": "fixtures/TestDocument.docx",
+    "sha256": "527a906b3cc31d0a72a47290a6c8a53854a89a31178a60fa3cb314d70b57a413"
+  },
+  {
+    "path": "fixtures/TestPoiXMLDocumentCorePropertiesGetKeywords.docx",
+    "sha256": "722eb8f8d5cccdbb53af226ac270dc750b5e071ae7ca91c73151ed9fb771959a"
+  },
+  {
+    "path": "fixtures/TestTableCellAlign.docx",
+    "sha256": "2968d4a5d5de21dce1cbeae3235e545cdf4bfd7ae508fe0eed3a9b032773ce17"
+  },
+  {
+    "path": "fixtures/TestTableColumns.docx",
+    "sha256": "3b1965a295c4a5c24573a6d5f2ded93f7de3e7a46ffe26b881456f1c4ddd6335"
+  },
+  {
+    "path": "fixtures/ThreeColFoot.docx",
+    "sha256": "584ef284e9b106fd7f1d283e918bdb6b579f5c73162d075acba921c10c63930b"
+  },
+  {
+    "path": "fixtures/ThreeColHead.docx",
+    "sha256": "304656fd791bd829f5cabebf8e7ec058260b669e9f572e500f69ff176387e090"
+  },
+  {
+    "path": "fixtures/ThreeColHeadFoot.docx",
+    "sha256": "c2d16e89c23a8c1f7366f3b65ab33c6e14fcf00f916dfecfd8af1a3e7797f73d"
+  },
+  {
+    "path": "fixtures/Tika-792.docx",
+    "sha256": "95de9f3b655bfec5b619ee31d1319e5a9a6ce4f253a9738898876640a2969665"
+  },
+  {
+    "path": "fixtures/VariousPictures.docx",
+    "sha256": "c1eecbca7de9f99e21c677e1d5b045eaa1d5a442eff4c82f0cbe9af93726a070"
+  },
+  {
+    "path": "fixtures/WithGIF.docx",
+    "sha256": "fb9f0bfa791921c43fe113005d3bb7d639ab2946c082e7d24d31e0bf73003036"
+  },
+  {
+    "path": "fixtures/WithTabs.docx",
+    "sha256": "c6460c33b3343b0656189d5cba344fadafea821f8982ea01619c5324fa87a266"
+  },
+  {
+    "path": "fixtures/WordWithAttachments.docx",
+    "sha256": "90352263823e6d3d39a4ec88212134b74bcb0f86b603bc3b51d712a3ec3df9f2"
+  },
+  {
+    "path": "fixtures/bib-chernigovka.netdo.ru_download_docs_17459.docx",
+    "sha256": "74575caabe35de9982ed11328ebe556844fcd3da2fed1e425255bfe81dee4c50"
+  },
+  {
+    "path": "fixtures/bookmarks.docx",
+    "sha256": "9b93eef9e2ce1ad0e28dc65beab73a896d5d1631a0b7fc73ec6ac279cf36b218"
+  },
+  {
+    "path": "fixtures/bug-paragraph-alignment.docx",
+    "sha256": "0a7a19175b8fb5fdce4755a51489a29109b358447dc99a2125642964be48e6ad"
+  },
+  {
+    "path": "fixtures/bug53475-password-is-pass.docx",
+    "sha256": "c182f7825ae588fe1c28497588d1bded635a5bef7eb7370fd1c589233a6471d5"
+  },
+  {
+    "path": "fixtures/bug53475-password-is-solrcell.docx",
+    "sha256": "cde5752f65238b42fefeaa28c0a10ef3b75bd6232cd6427b3920113c91c5909d"
+  },
+  {
+    "path": "fixtures/bug56075-changeTracking_off.docx",
+    "sha256": "bfe651932119ad2472b943b726f8ea7559d8ff0fb9c100b63cc0c28f8227de78"
+  },
+  {
+    "path": "fixtures/bug56075-changeTracking_on.docx",
+    "sha256": "9c837e12aaf3deac10ac20ac1bc08dc6bebdec14b553698063742b9bc12f8920"
+  },
+  {
+    "path": "fixtures/bug56076.docx",
+    "sha256": "3abb05a4e76d5f92cf59eb818db7b03e8ff342d051f832a1bee196b1164b3b0d"
+  },
+  {
+    "path": "fixtures/bug57031.docx",
+    "sha256": "bbd88b16a90c65b46e1a6922f7017e8d4cc0bc8f62ac28619c2d367d37d6754b"
+  },
+  {
+    "path": "fixtures/bug59058.docx",
+    "sha256": "89d0abb8eed1a58f262c49c386f74d8a82798d6344bed690d66b389514f0751c"
+  },
+  {
+    "path": "fixtures/bug65649.docx",
+    "sha256": "f98d2bfcca5d091cda26539b00318bb2b2b1e6d8aa644e370175e99ca9c1b4ad"
+  },
+  {
+    "path": "fixtures/bug65738.docx",
+    "sha256": "67797f5691cb5346201f1c40000a959f9f08d05d0b4493b4291e8d5f16e81e65"
+  },
+  {
+    "path": "fixtures/bug66312.docx",
+    "sha256": "de03dd0ac02c04e07790c400ee5cb36b580e38750d6c56c2b8528a53219cb46a"
+  },
+  {
+    "path": "fixtures/bug69628.docx",
+    "sha256": "a6c0d65a75862446b3261e0eb8f2709c889c9308c60e73b9f8fd0e022d8ba74f"
+  },
+  {
+    "path": "fixtures/capitalized.docx",
+    "sha256": "e96c6a0f4db42a658f56a2c96db0d6a7c899db1078d1fe3ea05033c1b7297dc3"
+  },
+  {
+    "path": "fixtures/chartex.docx",
+    "sha256": "5d7f0ca9aa26d0244eedbc8ff862f08910689ec3848a036c622b17d56a290b57"
+  },
+  {
+    "path": "fixtures/checkboxes.docx",
+    "sha256": "06f1dc1370c772a020c6d5183c8b7c4fe30ad7a9fff108cb2f027128ddf5e209"
+  },
+  {
+    "path": "fixtures/clusterfuzz-testcase-minimized-POIFuzzer-6709287337197568.docx",
+    "sha256": "dda9dd500d6922d60205d5045adb7496bc3ff431a4dad702da1c26af030766fc"
+  },
+  {
+    "path": "fixtures/clusterfuzz-testcase-minimized-POIXWPFFuzzer-4791943399604224.docx",
+    "sha256": "096a1119c0fd110d7fb7b93db16bd1a302513732d8dd0bd7641ecedafbe36f43"
+  },
+  {
+    "path": "fixtures/clusterfuzz-testcase-minimized-POIXWPFFuzzer-4959857092198400.docx",
+    "sha256": "f45e20bb8d8c4ed61413c9874927a784307b75e22a6d7be775e6485dc60e1abb"
+  },
+  {
+    "path": "fixtures/clusterfuzz-testcase-minimized-POIXWPFFuzzer-4961551840247808.docx",
+    "sha256": "04a57da257ee6af6d33ba88999e2c12a54d266c1d1ffb56eefc1cd04bd1c9be6"
+  },
+  {
+    "path": "fixtures/clusterfuzz-testcase-minimized-POIXWPFFuzzer-5166796835258368.docx",
+    "sha256": "9a78086d1bfd6aab90fa1c1e12569c166267a1d7e1e6c5d36e4bfb64c5ee10b9"
+  },
+  {
+    "path": "fixtures/clusterfuzz-testcase-minimized-POIXWPFFuzzer-5313273089884160.docx",
+    "sha256": "b418f2b0e307e6f526f85ef90979fe582d5c2644a4597a882597ccd18300d838"
+  },
+  {
+    "path": "fixtures/clusterfuzz-testcase-minimized-POIXWPFFuzzer-5564805011079168.docx",
+    "sha256": "d9eb560e2285db6cf38c5b2ed0edd7a44b1b4de45343085c9232b82426c51632"
+  },
+  {
+    "path": "fixtures/clusterfuzz-testcase-minimized-POIXWPFFuzzer-5569740188549120.docx",
+    "sha256": "9c9d14a0ed831cc9adca4ca212a86ec19df760f54ce0c495996808fd9c015af7"
+  },
+  {
+    "path": "fixtures/clusterfuzz-testcase-minimized-POIXWPFFuzzer-6061520554164224.docx",
+    "sha256": "af0490674ff7c414b1d34ae6bae2140e9e2a3166e5b7ef524201ffb576c74d57"
+  },
+  {
+    "path": "fixtures/clusterfuzz-testcase-minimized-POIXWPFFuzzer-6120975439364096.docx",
+    "sha256": "7d34e905b8df2a09b9b671e1e1243c7898da94cf935797b98fc4131faeb55f25"
+  },
+  {
+    "path": "fixtures/clusterfuzz-testcase-minimized-POIXWPFFuzzer-6442791109263360.docx",
+    "sha256": "dbb8b118a4bc0a3d75a65722805f4ab039d3067626c98b209dde41a2f0af86f8"
+  },
+  {
+    "path": "fixtures/clusterfuzz-testcase-minimized-POIXWPFFuzzer-6733884933668864.docx",
+    "sha256": "a1f9d9fd811700ea52b571c72aaaceea012d53f83ef2e6baace0238168c4b206"
+  },
+  {
+    "path": "fixtures/comment.docx",
+    "sha256": "23bbfe33e1acf7073253bd87552cbee5be0a07cbd08a479a4bf139f09b1dd6dc"
+  },
+  {
+    "path": "fixtures/crash-517626e815e0afa9decd0ebb6d1dee63fb9907dd.docx",
+    "sha256": "4fa1dc1cd5bddeaa5a14169d9a4f5abdc687d732c3beb06901cf9a701533d466"
+  },
+  {
+    "path": "fixtures/deep-table-cell.docx",
+    "sha256": "31c5bfe1f68c98699cb356891de2e02fe223f633706d666c430ca79fd2cdf6bb"
+  },
+  {
+    "path": "fixtures/delins.docx",
+    "sha256": "7ecad102602586be7f1371f117fc567ea47f3ed0ca703b353e003002f1ff8d3f"
+  },
+  {
+    "path": "fixtures/documentProperties.docx",
+    "sha256": "1cff7a0a94dfce307a70032d21070d26ae34b9fdf742cf70fa66d4a2078ec9d5"
+  },
+  {
+    "path": "fixtures/documentProtection_comments_no_password.docx",
+    "sha256": "d15cd04edecf3489c2028864e70736494a1c5259b6e92097e50457efd934d78c"
+  },
+  {
+    "path": "fixtures/documentProtection_forms_no_password.docx",
+    "sha256": "5c299d134577cb3a752548e6891701d2b3447570bd2bb0b38bf16efc026ee0a2"
+  },
+  {
+    "path": "fixtures/documentProtection_no_protection.docx",
+    "sha256": "5d1cce05b576fc527981c56dd9844df3b6669967bcd9b981adfc043bd516f62c"
+  },
+  {
+    "path": "fixtures/documentProtection_no_protection_tag_existing.docx",
+    "sha256": "1fb9592a737a350cad1a2a7d9136c7fa6106c5c18c88980251ee9273ddd4ec32"
+  },
+  {
+    "path": "fixtures/documentProtection_readonly_no_password.docx",
+    "sha256": "5d4c919f2e06b84fbe35cfaaa4012e8f469b811e1f643deb3e660b798bfe4544"
+  },
+  {
+    "path": "fixtures/documentProtection_trackedChanges_no_password.docx",
+    "sha256": "f57113d70213bf8d2fb739fc980662a84e3530f3d1b128ab92d00ab587cd3eb4"
+  },
+  {
+    "path": "fixtures/drawing.docx",
+    "sha256": "5e83462dd7ac3cf0a333fe09cf0837602dbd41775cdcec813a6e288b5d55dff8"
+  },
+  {
+    "path": "fixtures/emptyPPr.docx",
+    "sha256": "0db26e190d0d4888d3d11fa831cb4815fdf821b448ae2b2c5503bac697e6a530"
+  },
+  {
+    "path": "fixtures/endnotes.docx",
+    "sha256": "6e2e1b2dabb0ae6b9b26ddd613dca446ba0710ecc8b4008722abc4ed592934e3"
+  },
+  {
+    "path": "fixtures/footnotes.docx",
+    "sha256": "9070094b27ff5201477f4de4b2c027730c66cb889106a1609c5adeed207a59c1"
+  },
+  {
+    "path": "fixtures/form_footnotes.docx",
+    "sha256": "a890294bfbdc63f6d03eab61efc1e98cb51d59f0920541150dd7082f9bdf31f1"
+  },
+  {
+    "path": "fixtures/headerFooter.docx",
+    "sha256": "0ad90c6ee8ec8b9fab1ae8219387eca8d934b739580918d76a1b6c911bc41913"
+  },
+  {
+    "path": "fixtures/headerPic.docx",
+    "sha256": "50d9b17f7575c8a91129fd8a3e6a70feec886480ab9f089e29a7f8ac7e5ed51a"
+  },
+  {
+    "path": "fixtures/heading123.docx",
+    "sha256": "dac67500b907811030ab2bdd5b1c65cda97a15651d6ec0d33592ef70d34a5550"
+  },
+  {
+    "path": "fixtures/issue_51265_1.docx",
+    "sha256": "711adad4316f4a1937b08f4647e679aac00a42dc134d205e81759777a0cda8a7"
+  },
+  {
+    "path": "fixtures/issue_51265_2.docx",
+    "sha256": "f06f14a64bd7bb58cc93a832059f722c7af0c7854e0f3bebe5945e7d23e149ae"
+  },
+  {
+    "path": "fixtures/issue_51265_3.docx",
+    "sha256": "219c78b7bb2750d85dfb32cc13f38162a7b1ed5cfe610fa1dacd8364f578479b"
+  },
+  {
+    "path": "fixtures/protected_sample.docx",
+    "sha256": "688b994faa8c909d7d3fc3f48fdccce538426affb1cf562d107a2847ec561beb"
+  },
+  {
+    "path": "fixtures/rtl.docx",
+    "sha256": "d159b6ac6734f14a9ecf8e97ca5029bdcddbfae2d33ba0128aa774924e0b190d"
+  },
+  {
+    "path": "fixtures/sample.docx",
+    "sha256": "be4fc1bf778ad8183f714e09b9df40669de34e9ecbc3adecfc8953f00749036f"
+  },
+  {
+    "path": "fixtures/saut_page.docx",
+    "sha256": "748f34f3dc285f4d48474930758b2c37382d17965545a1729cb7400cada793da"
+  },
+  {
+    "path": "fixtures/shapes-with-text.docx",
+    "sha256": "1ef4d8cbfd5e2333897ab3193b58ce445cee7e45476d39e5626a4c7097f72d95"
+  },
+  {
+    "path": "fixtures/smarttag-snippet.docx",
+    "sha256": "693ad667f07b6ca90c4375e024a122adb970e9f5cc7e29a1cd53e0a9cbfb6de9"
+  },
+  {
+    "path": "fixtures/table-alignment.docx",
+    "sha256": "ee36729e0d050e529fea0b444006a194bea72b35cf8958ae58c6624c26156b41"
+  },
+  {
+    "path": "fixtures/table-indent.docx",
+    "sha256": "aaa3fd6a1c0d6ac222ccacad213257b9061be7d706396a36b3ffedacb3a56c9b"
+  },
+  {
+    "path": "fixtures/table_footnotes.docx",
+    "sha256": "69666500a7dd00600da64cc7676f8939c84df8804967ec2fc75567fad41f21a9"
+  },
+  {
+    "path": "fixtures/testComment.docx",
+    "sha256": "06b63b13f0b78a7179151af52c2282557c1ed204899feee9fcef4ca575344f97"
+  },
+  {
+    "path": "fixtures/tika-3388.docx",
+    "sha256": "3a1b5f73e61be4071c5bef5be3e52d344142f45c78681a673b14bc38bc07f717"
+  },
+  {
+    "path": "fixtures/tika-3816.docx",
+    "sha256": "ab5b32d15d2fd14c633452cc5a8b1cd27cd65038cd208a11ede29d6f8fe24259"
+  },
+  {
+    "path": "fixtures/truncated62886.docx",
+    "sha256": "39619851dab09369e91f926a94499caba0749ca2fa57d30b2fc2bc4a937292d0"
+  },
+  {
+    "path": "fixtures/unicode-path.docx",
+    "sha256": "4d8b0b3dd8ada4eb6bf141e88f8dffc07f993545d9fdd25f505d8ac839918946"
+  },
+  {
+    "path": "fixtures/zero-length.docx",
+    "sha256": "8e39d68e61deed4d3afcbfc3bcea9b1c3d5a1e50ee0e0af3e15a705c8d186bbe"
+  }
+]
